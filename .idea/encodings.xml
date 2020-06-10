@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/MoneyManager.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/个人财政管理系统/MoneyManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BalEditFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BalFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DeleteCheckFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Frame/BalEditFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Frame/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Frame/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Frame/ModifyPwdFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/InformationTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ModifyPwdFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MoneyManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyListListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UpdateCheckFrame.java" charset="GBK" />
+  </component>
+</project>
